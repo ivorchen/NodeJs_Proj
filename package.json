@@ -1,0 +1,22 @@
+{
+  "name": "nodejs_proj",
+  "version": "1.0.0",
+  "description": "learn node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "node main.js"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "starter"
+  ],
+  "author": "Ivor Chen",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.13.4",
+    "multer": "^1.1.0"
+  }
+}
